@@ -52,9 +52,8 @@ marketing-analytics-growth-strategy/
 │   ├── dax_measures.md         # All DAX formulas used in the Power BI model
 │   └── screenshots/            # Dashboard page previews
 ├── reports/
-│   └── executive_summary.md    # Sanitized findings & recommendations summary
-└── charts/
-    └── *.png                   # Key diagnostic visualizations
+    └── executive_summary.md    # Sanitized findings & recommendations summary
+
 ```
 
 ## Deliverables (original engagement)
